@@ -2,7 +2,7 @@
 
  - 💻 | Front-End Developer
  - 👨‍🎓 | System Analysis and Development
- - 🧑 | 22y.
+ - 🧑 | 25y.
  - 👌 | Java | Javascript | HTML5 | CSS | React
 
 <h3 align="left"> 📝 My Skills: </h1>
